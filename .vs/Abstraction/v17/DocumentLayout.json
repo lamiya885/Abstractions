@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|c:\\users\\hp\\source\\repos\\abstraction\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|c:\\users\\hp\\source\\repos\\abstraction\\abstraction\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|c:\\users\\hp\\source\\repos\\abstraction\\abstraction\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|c:\\users\\hp\\source\\repos\\abstraction\\abstraction\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|c:\\users\\hp\\source\\repos\\abstraction\\abstraction\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321C4070-CA3C-47FF-A813-60CDA10F4D7C}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Group.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Group.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Group.cs",
+              "RelativeToolTip": "Abstraction\\Group.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:08:46.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Student.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Student.cs",
+              "RelativeToolTip": "Abstraction\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:06:54.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\User.cs",
+              "RelativeDocumentMoniker": "Abstraction\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\User.cs",
+              "RelativeToolTip": "Abstraction\\User.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:00:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Interfaces\\IAccount.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Interfaces\\IAccount.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Interfaces\\IAccount.cs",
+              "RelativeToolTip": "Abstraction\\Interfaces\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:53:20.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:43:22.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
